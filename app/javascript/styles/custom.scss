@@ -1,0 +1,191 @@
+$ui-base-color:           #403A45;
+$ui-secondary-color:      #C6B6B9;
+$ui-primary-color:        #D5DEEE;
+$ui-highlight-color:      #D9CFCB;
+$base-border-color:       #403A40;
+
+div.column {
+  flex-grow: 1;
+}
+
+.drawer__header,
+.column-header,
+.tabs-bar,
+.button:hover
+{
+  background-color: $ui-base-color;
+  border-radius: 10px;
+}
+
+.activity-stream,
+.entry,
+.detailed-status.light,
+.activity-stream,
+.entry,
+.status.light
+{
+  border-bottom: 0px;
+}
+
+.column, .column-link, .column > .scrollable
+{
+  background-color: rgba(0,0,0,0.2);
+}
+
+.scrollable
+{
+  margin: 5px;
+}
+
+.activity-stream
+{
+  box-shadow: 0 0 0;
+}
+
+.entry.h-entry
+{
+  background: transparent;
+}
+
+.status__display-name, .account
+{
+  padding-bottom: 2px;
+}
+
+.status, .search__input, status.light
+{
+  border-radius: 10px;
+  margin: 5px auto 10px auto;
+}
+
+.status__avatar
+{
+  border: solid 2px $base-border-color;
+  border-radius: 5px;
+}
+
+.button,
+.privacy-dropdown__option:hover,
+.privacy-dropdown__option.active,
+.loading-bar,
+.react-toggle-track
+.react-toggle--checked .react-toggle-track,
+.react-toggle--checked .react-toggle-thumb,
+{
+  background-color: $ui-primary-color;
+}
+
+.button:hover,
+.button:active,
+.button:focus,
+.status__content .status__content__spoiler-link:hover,
+.reply-indicator__content .status__content__spoiler-link:hover {
+  background-color: #2C2C2F;
+}
+
+.status__content a,
+.notification__message .fa,
+.icon-button.active,
+.account__header .account__header__username,
+.column-back-button,
+.column-header.active .fa,
+.column-header__back-button,
+.text-icon-button.active,
+.icon-button.inverted.active,
+.dropdown--active .icon-button,
+.card .name small,
+.status.light .status__content a,
+.activity-stream .status.light .status__content a,
+.tabs-bar__link.active
+{
+  color: $ui-primary-color;
+}
+
+.star-icon.active {
+  color: #ca8f04;
+}
+
+.status__content .status__content__spoiler-link,
+.reply-indicator__content .status__content__spoiler-link {
+  color: #fff;
+  text-shadow: #000 0 0 2px;
+  background-color: $ui-primary-color;
+}
+
+.muted a.status__content__spoiler-link {
+  text-shadow: none;
+}
+
+.reply-indicator {
+  background-color: $ui-highlight-color;
+}
+.column-header.active {
+  box-shadow: 0 1px 0 rgba($ui-primary-color, 0.3);
+}
+
+.column-header.active .fa {
+  text-shadow: 0 0 10px rgba($ui-primary-color, 0.4);
+}
+
+.status-list__unread-indicator,
+.notifications__unread-indicator,
+.column-header__wrapper.active::before
+{
+  background: radial-gradient(ellipse, rgba($ui-primary-color, 0.23) 0%, rgba($ui-primary-color, 0) 60%);
+}
+
+.dropdown--active .dropdown__content > ul,
+.dropdown--active .dropdown__content > ul > li > a {
+  background-color: $ui-secondary-color;
+}
+
+.dropdown--active .dropdown__content > ul > li > a:hover {
+  background-color: $ui-primary-color;
+  color: $ui-secondary-color;
+}
+
+.card .counter.active::after,
+.tabs-bar__link.active
+{
+  border-bottom-color: $ui-primary-color;
+}
+
+.column > .scrollable,
+.search__input
+{
+  background-color: $ui-base-color;
+}
+
+.column-header,
+.column-icon,
+.collapsable-collapsed,
+.drawer__header a:hover,
+.column-header__back-button,
+.column-header__button
+{
+  background-color: $ui-base-color;
+}
+
+.collapsable,
+.column-settings--outer,
+.drawer__header,
+.column-link,
+.column-header__button.active,
+.column-header__button.active:hover,
+.column-header__collapsible > div
+{
+  background-color: $ui-secondary-color;
+}
+
+.drawer__inner,
+.column-link:hover
+{
+  background-color: $ui-secondary-color;
+}
+
+
+@import 'application';
+
+
+
+
