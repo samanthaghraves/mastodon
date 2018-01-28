@@ -34,6 +34,10 @@ export function Lists () {
   return import(/* webpackChunkName: "features/lists" */'../../lists');
 }
 
+export function DirectTimeline() {
+  return import(/* webpackChunkName: "features/direct_timeline" */'../../direct_timeline');
+}
+
 export function Status () {
   return import(/* webpackChunkName: "features/status" */'../../status');
 }
