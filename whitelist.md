@@ -1,4 +1,4 @@
-*THIS IS THE WHITELIST
+*THIS IS THE WHITELIST*
 
 scalie.club<p></p>
 mastodon.sdf.org<p></p>
