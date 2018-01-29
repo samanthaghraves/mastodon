@@ -1,6 +1,6 @@
 THIS IS THE WHITELIST
 
-scalie.club
+scalie.club<p></p>
 mastodon.sdf.org
 todon.nl
 dice.camp
