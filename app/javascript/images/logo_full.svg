@@ -12,9 +12,9 @@
    id="svg3693"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="375"
-   height="187.5"
-   viewBox="0 0 375 187.5"
+   width="713.35876"
+   height="175.8678"
+   viewBox="0 0 713.35878 175.8678"
    sodipodi:docname="logo_full.svg">
   <metadata
      id="metadata3699">
@@ -44,7 +44,7 @@
      id="namedview3695"
      showgrid="false"
      inkscape:zoom="2.2401143"
-     inkscape:cx="180.86826"
+     inkscape:cx="104.75608"
      inkscape:cy="15.306642"
      inkscape:window-x="1920"
      inkscape:window-y="0"
@@ -58,7 +58,7 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot3707"
-     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
        id="flowRegion3709"><rect
          id="rect3711"
          width="262.93301"
@@ -67,7 +67,7 @@
          y="59.381535" /></flowRegion><flowPara
        id="flowPara3713"></flowPara></flowRoot>  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="117.85113"
      y="105.36133"
      id="text3721"
@@ -76,7 +76,7 @@
        id="tspan3723"
        x="117.85113"
        y="105.36133"
-       style="-inkscape-font-specification:'Press Start';font-family:'Press Start';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:30px;fill:#ffffff;">Cattodon</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Press Start';-inkscape-font-specification:'Press Start';fill:#ffffff">Cattodon</tspan></text>
   <path
      style="fill:#ffffff"
      d="m 38.33288,96.030518 c -2.433664,-0.645522 -4.778529,-2.98993 -4.778529,-4.777596 0,-4.234345 9.079615,-6.622057 14.325054,-3.767132 3.373421,1.836047 4.37722,4.319207 2.639197,6.528746 -1.742431,2.215142 -7.711742,3.202693 -12.185722,2.015982 z"
