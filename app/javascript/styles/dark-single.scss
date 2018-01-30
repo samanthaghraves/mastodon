@@ -38,6 +38,15 @@ $base-border-color:     #403A40;
 }
 
 /* Styling */
+
+
+.landing-page .header .links .brand img {
+    height: 179px;
+    position: relative;
+    top: 4px;
+    left: -10px;
+}
+
 .column, .column-link, .column > .scrollable
 {
   background-color: transparent;
@@ -58,7 +67,7 @@ $base-border-color:     #403A40;
 .tabs-bar,
 .button:hover
 {
-  background-color: $ui-base-color;
+  background-color: $ui-secondary-color;
   border-radius: 10px;
 }
 
@@ -117,10 +126,10 @@ $base-border-color:     #403A40;
 .react-toggle--checked .react-toggle-track,
 .react-toggle--checked .react-toggle-thumb,
 {
-  background-color: $ui-primary-color;
+  background-color: $ui-base-color;
 }
 
-.button:hover,
+
 .button:active,
 .button:focus,
 .status__content .status__content__spoiler-link:hover,
@@ -214,7 +223,6 @@ $base-border-color:     #403A40;
 
 .collapsable,
 .column-settings--outer,
-.drawer__header,
 .column-link,
 .column-header__button.active,
 .column-header__button.active:hover,

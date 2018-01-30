@@ -614,6 +614,7 @@ en:
   statuses:
     open_in_web: Open in web
     over_character_limit: character limit of %{max} exceeded
+    under_character_limit: you need to have at least 1 character in box to send tweet  
     pin_errors:
       limit: You have already pinned the maximum number of toots
       ownership: Someone else's toot cannot be pinned

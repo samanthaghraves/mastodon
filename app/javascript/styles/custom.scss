@@ -8,12 +8,16 @@ div.column {
   flex-grow: 1;
 }
 
+.button {
+  background-color: $ui-base-color;
+}
+
 .drawer__header,
 .column-header,
 .tabs-bar,
 .button:hover
 {
-  background-color: $ui-base-color;
+  background-color: $ui-secondary-color;
   border-radius: 10px;
 }
 
@@ -64,7 +68,7 @@ div.column {
   border-radius: 5px;
 }
 
-.button,
+
 .privacy-dropdown__option:hover,
 .privacy-dropdown__option.active,
 .loading-bar,
@@ -75,7 +79,7 @@ div.column {
   background-color: $ui-primary-color;
 }
 
-.button:hover,
+
 .button:active,
 .button:focus,
 .status__content .status__content__spoiler-link:hover,
@@ -168,7 +172,6 @@ div.column {
 
 .collapsable,
 .column-settings--outer,
-.drawer__header,
 .column-link,
 .column-header__button.active,
 .column-header__button.active:hover,
